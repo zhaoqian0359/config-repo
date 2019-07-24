@@ -24,7 +24,7 @@ env:
   test1
 girl:
   name: lujingjing
-  age: 20
+  age: 18
 
 feign:
   client:
